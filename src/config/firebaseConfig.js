@@ -1,10 +1,10 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBMfHUVXe4GDHryY7sJMPmnElS5kLDZZo4",
-  authDomain: "crypto-hunter-50991.firebaseapp.com",
-  projectId: "crypto-hunter-50991",
-  storageBucket: "crypto-hunter-50991.appspot.com",
-  messagingSenderId: "141181984273",
-  appId: "1:141181984273:web:ba51a25e27ce6a2b1d9bb0",
+  apiKey: "AIzaSyCOVS1Md7VMRSNKlrnicL7eTOO9H6oebgs",
+  authDomain: "coinhub-b752a.firebaseapp.com",
+  projectId: "coinhub-b752a",
+  storageBucket: "coinhub-b752a.appspot.com",
+  messagingSenderId: "535265691881",
+  appId: "1:535265691881:web:af5f5dfa9c7fd7d79d0878",
 };
 
 export default firebaseConfig;
