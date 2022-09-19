@@ -1,21 +1,68 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
-## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
+# Project Title
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
+Cryptocurrency Tracker with React JS, Material UI and Chart JS.SignUp and Loging is implemented using FireBase where can access the watchlisted coins.
+
+
+## Tech Stack
+
+**Client:** React Js, Material UI
+
+**Server:** Firebase
+
 
 ## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+Find  the below deployed angelscoin website 
 
-## Built with 
+https://angelscoin.netlify.app
 
-- [React JS](https://reactjs.org/)
-- [Material UI](https://v4.mui.com/)
-- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
-- [Firebase](https://firebase.google.com/)
 
-## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
+## Run Locally
 
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+Clone the project
+
+```bash
+  git clone https://github.com/geekychandan/Angelscoin-crypto-app.git
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Features
+
+- Live previews
+
+![Screenshot (7)](https://user-images.githubusercontent.com/110468423/191088536-8f50ca5f-124c-4627-9532-058f981f7c6f.png)
+
+
+![Screenshot (8)](https://user-images.githubusercontent.com/110468423/191088627-3dfdd3c5-e6ec-478f-ba18-7d4cea58ab8f.png)
+
+
+![Screenshot (9)](https://user-images.githubusercontent.com/110468423/191088684-22988513-2d6c-4472-9889-cb02c0b2927b.png)
+
+
+![Screenshot (10)](https://user-images.githubusercontent.com/110468423/191088778-2946b89c-969a-4398-bc2e-30b7a60bb6f3.png)
+
+
+![Screenshot (11)](https://user-images.githubusercontent.com/110468423/191088826-53a5e25c-a9c4-4863-ae6a-33857525f2c3.png)
+## Authors
+
+- [@geekychandan](https://github.com/geekychandan)
+
